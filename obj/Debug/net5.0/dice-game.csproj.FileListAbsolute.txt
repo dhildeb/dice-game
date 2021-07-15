@@ -1,0 +1,16 @@
+C:\Users\dhild\source\codeworks\dice-game\bin\Debug\net5.0\dice-game.exe
+C:\Users\dhild\source\codeworks\dice-game\bin\Debug\net5.0\dice-game.deps.json
+C:\Users\dhild\source\codeworks\dice-game\bin\Debug\net5.0\dice-game.runtimeconfig.json
+C:\Users\dhild\source\codeworks\dice-game\bin\Debug\net5.0\dice-game.runtimeconfig.dev.json
+C:\Users\dhild\source\codeworks\dice-game\bin\Debug\net5.0\dice-game.dll
+C:\Users\dhild\source\codeworks\dice-game\bin\Debug\net5.0\ref\dice-game.dll
+C:\Users\dhild\source\codeworks\dice-game\bin\Debug\net5.0\dice-game.pdb
+C:\Users\dhild\source\codeworks\dice-game\obj\Debug\net5.0\dice-game.csproj.AssemblyReference.cache
+C:\Users\dhild\source\codeworks\dice-game\obj\Debug\net5.0\dice-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhild\source\codeworks\dice-game\obj\Debug\net5.0\dice-game.AssemblyInfoInputs.cache
+C:\Users\dhild\source\codeworks\dice-game\obj\Debug\net5.0\dice-game.AssemblyInfo.cs
+C:\Users\dhild\source\codeworks\dice-game\obj\Debug\net5.0\dice-game.csproj.CoreCompileInputs.cache
+C:\Users\dhild\source\codeworks\dice-game\obj\Debug\net5.0\dice-game.dll
+C:\Users\dhild\source\codeworks\dice-game\obj\Debug\net5.0\ref\dice-game.dll
+C:\Users\dhild\source\codeworks\dice-game\obj\Debug\net5.0\dice-game.pdb
+C:\Users\dhild\source\codeworks\dice-game\obj\Debug\net5.0\dice-game.genruntimeconfig.cache
